@@ -1,6 +1,6 @@
-###Car Purchase Propensity Prediction
+### Car Purchase Propensity Prediction
 
-##Uma análise preditiva para identificação de clientes com maior probabilidade de compra
+## Uma análise preditiva para identificação de clientes com maior probabilidade de compra
 
 ## Contexto do Problema
 
