@@ -99,19 +99,19 @@ ___
 
 ### Matriz de Correlação
 
-![Correlacao](figuras/matriz_correlacao.png)
+![Correlacao](figures/matriz_correlacao.png)
 
 ---
 
 ### Importância das Variáveis (XGBoost)
 
-![Features Importance](figuras/feature_importance.png)
+![Features Importance](figures/feature_importance.png)
 
 ---
 
 ### Comparação Final dos Modelos
 
-![Comparação Final](figuras/resultados.png)
+![Comparação Final](figures/resultados.png)
 
 ___
 
